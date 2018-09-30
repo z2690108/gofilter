@@ -1,1 +1,1 @@
-# word-filter
+# gofilter
